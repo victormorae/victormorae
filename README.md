@@ -9,6 +9,7 @@ I am a programmer with a passion for game dev. Therefore, i have explored game d
 
 **Hobbies and Interests:**
 - GameMaker Studio 2;
+- Unity;
 - Roleplay games;
 - Pixel Art;
 - Draw;

@@ -29,13 +29,4 @@ I am a programmer with a passion for game dev. Therefore, i have explored game d
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<details>
-  <summary>Github Stats</summary>
-<div>
-  <a href="https://github.com/victormorae">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victormorae&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormorae&layout=compact&langs_count=168&theme=great-gatsby"/>
-</div>
-</details>
-
 ---

@@ -5,7 +5,7 @@ I am a programmer with a passion for game dev. Therefore, i have explored game d
 **What am i doing:**
 - I'm currently working on an indie game, produced by me, called Hero Aftermath.
 - I'm exploring the world of Pixel Art, learning drawing theories and techniques.
-- I'm also studying Development. I want to enter a Software Engineering college in 2025, to become a Software Engineer.
+- I'm also studying Development.
 
 **Hobbies and Interests:**
 - GameMaker Studio 2;

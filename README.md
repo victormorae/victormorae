@@ -3,6 +3,7 @@
 I am a programmer with a passion for game dev. Therefore, i have explored game development a lot, i also like learning programming languages.
 
 **What am i doing:**
+- Producing original stories
 - I'm currently working on an indie game, produced by me, called Hero Aftermath.
 - I'm exploring the world of Pixel Art, learning drawing theories and techniques.
 - I'm also studying Development.
